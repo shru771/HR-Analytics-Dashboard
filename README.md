@@ -32,7 +32,7 @@ This dashboard provides insights into:
 
 ## 📷 Dashboard Screenshot
 
-![screenshots](Dashboard%20screenshots/Dashboard_Screenshots.png)
+![Dashboard Screenshot](screenshots/Dashboard_Screenshots.png)
 
 ## 📈 Key Insights
 
